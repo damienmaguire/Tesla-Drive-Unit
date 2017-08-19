@@ -9,12 +9,17 @@ Use at your own risk for education purposes only. Further updates when testing s
 
 19/08/17 : V2 files for the Large drive unit board released. Same discalimer as before : untested , for educational use only. If you blow up your house , cat or car with this design I accept no responsibility. Major upgrades over the V1 :
 
-Three stage active filter to recover current sensor analog values from Sigma Delta encoding
-Variable frequency clock generator for Sigma Delta converters
-Buffer on IGBT drive lines
-All temp sensors read via a dual 4:1 multiplexer
-Crusie control input
-Jumper selectable CAN or RS232 communication
+Three stage active filter to recover current sensor analog values from Sigma Delta encoding.
+
+Variable frequency clock generator for Sigma Delta converters.
+
+Buffer on IGBT drive lines.
+
+All temp sensors read via a dual 4:1 multiplexer.
+
+Crusie control input.
+
+Jumper selectable CAN or RS232 communication.
 
 Have fun :)
 
