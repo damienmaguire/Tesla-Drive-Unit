@@ -7,6 +7,17 @@ Use at your own risk for education purposes only. Further updates when testing s
 
 10/08/17 : While functional the V1 board will not correctly read the Tesla current sensors as they are Sigma - Delta ADC as opposed to analog. Other issues with the design include spurious triggering of the fault detection lines due to switching noise.Solutions to these problems along with some upgrades are on the way in the V2. Stay tuned:)
 
+19/08/17 : V2 files for the Large drive unit board released. Same discalimer as before : untested , for educational use only. If you blow up your house , cat or car with this design I accept no responsibility. Major upgrades over the V1 :
+
+Three stage active filter to recover current sensor analog values from Sigma Delta encoding
+Variable frequency clock generator for Sigma Delta converters
+Buffer on IGBT drive lines
+All temp sensors read via a dual 4:1 multiplexer
+Crusie control input
+Jumper selectable CAN or RS232 communication
+
+Have fun :)
+
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
 
     This program is free software: you can redistribute it and/or modify
