@@ -21,6 +21,8 @@ Crusie control input.
 
 Jumper selectable CAN or RS232 communication.
 
+10/09/17 : The V2 board has passed all bench tests and works well. Not tested in a car as yet.
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
