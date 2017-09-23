@@ -23,6 +23,8 @@ Jumper selectable CAN or RS232 communication.
 
 10/09/17 : The V2 board has passed all bench tests and works well. Not tested in a car as yet.
 
+23/09/17 : Creep and cruise control working on bench tests with inverter back in drive unit. Released beta software .bin file and paramaters for low voltage and high voltage testing. Not yet ran in a car. Same discalimer as before : untested , for educational use only. If you blow up your house , cat or car with this design I accept no responsibility.
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
