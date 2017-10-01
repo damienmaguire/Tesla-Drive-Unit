@@ -27,6 +27,8 @@ Jumper selectable CAN or RS232 communication.
 
 30/09/17 : Uploaded a spreadsheet with resistance / temperature values for the inverter heatsink and motor case for the large drive unit. 
 
+01/10/17 : Uploaded latest software build with working temperature sensors.
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
