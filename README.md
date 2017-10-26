@@ -29,6 +29,8 @@ Jumper selectable CAN or RS232 communication.
 
 01/10/17 : Uploaded latest software build with working temperature sensors.
 
+26/10/17 : Uploaded latest software build and document detailing CAN message formats.
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
