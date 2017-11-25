@@ -34,6 +34,8 @@ Jumper selectable CAN or RS232 communication.
 03/11/17 : Link to source code for those interested : http://johanneshuebner.com/quickcms/index.html%3Fen_downloads,14.html
 Note I do not write the software. It is however fully open source and available from the link above.
 
+25/11/17 : Started the documentation. Work in progress as the project evolves.
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
