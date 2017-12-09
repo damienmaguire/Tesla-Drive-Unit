@@ -36,6 +36,8 @@ Note I do not write the software. It is however fully open source and available 
 
 25/11/17 : Started the documentation. Work in progress as the project evolves.
 
+09/12/17 : First test drive in car a success. Uploaded series of wiring diagrams. 
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
