@@ -38,6 +38,12 @@ Note I do not write the software. It is however fully open source and available 
 
 09/12/17 : First test drive in car a success. Uploaded series of wiring diagrams. 
 
+29/12/17 : Uploaded design files for V3 board. Jut one change :
+
+ULN2003 replaced by NCV8401ADT for driving precharge relay and main contactor following in car testing.
+
+Happy new year :)
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
