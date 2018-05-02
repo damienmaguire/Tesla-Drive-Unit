@@ -44,6 +44,8 @@ ULN2003 replaced by NCV8401ADT for driving precharge relay and main contactor fo
 
 Happy new year :)
 
+02/05/18 : V2 board tested in my BMW E31 project car to over 100mph :)
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
