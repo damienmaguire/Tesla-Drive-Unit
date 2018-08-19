@@ -46,6 +46,8 @@ Happy new year :)
 
 02/05/18 : V2 board tested in my BMW E31 project car to over 100mph :)
 
+19/08/18 : Multiple applications in motorsport now up and running. Added parameter file for drifting:)
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
