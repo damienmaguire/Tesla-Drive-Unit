@@ -48,6 +48,8 @@ Happy new year :)
 
 19/08/18 : Multiple applications in motorsport now up and running. Added parameter file for drifting:)
 
+17/09/18 : Running on the dyno : https://www.youtube.com/watch?v=2bLPXOGVxLI
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
