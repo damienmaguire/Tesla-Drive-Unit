@@ -50,6 +50,10 @@ Happy new year :)
 
 17/09/18 : Running on the dyno : https://www.youtube.com/watch?v=2bLPXOGVxLI
 
+23/06/19 : V4a design files released. Now features on board WiFi and CAN control.
+            Support Forum : https://openinverter.org/forum/
+            
+
 Have fun :)
 
     Copyright (C) 2017  Damien Maguire and Johannes Huebner
