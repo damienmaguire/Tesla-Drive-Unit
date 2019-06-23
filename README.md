@@ -1,7 +1,10 @@
 # Tesla-Drive-Unit
 Open Source logic board for the Tesla Model S large rear drive unit. PCB Files in DesignSpark 8 format.
-Based on the inverter designed by Johannes Heubner using slip control. Software may be downladed here:
+Based on the inverter designed by Johannes Heubner using slip control.
+Software may be downladed here:
 https://github.com/jsphuebner/stm32-sine/releases
+Fully built and tested boards and bare PCBs available here :
+http://www.evbmw.com/index.php/evbmw-webshop
 
 29/07/17 : V1 files released. Please note that as of this date the design is completely untested.
 Use at your own risk for education purposes only. Further updates when testing starts and future versions are released.
