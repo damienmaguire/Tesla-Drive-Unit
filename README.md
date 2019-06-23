@@ -8,6 +8,8 @@ https://github.com/jsphuebner/stm32-sine/releases
 Fully built and tested boards and bare PCBs available here :
 http://www.evbmw.com/index.php/evbmw-webshop
 
+Support forum : https://openinverter.org/forum/
+
 29/07/17 : V1 files released. Please note that as of this date the design is completely untested.
 Use at your own risk for education purposes only. Further updates when testing starts and future versions are released.
 
