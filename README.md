@@ -61,6 +61,10 @@ Happy new year :)
 23/06/19 : V4a design files released. Now features on board WiFi and CAN control.
             Support Forum : https://openinverter.org/forum/
             
+21/01/20 : V4b design files now released. Both fully built and partial built boards available from the EVBMW webshop :
+            https://www.evbmw.com/index.php/evbmw-webshop
+            Don't want to buy from me and support ongoing developemnt? That's ok as this release also includes the BOM, CPL and                                                                             Gerber files needed to build your own at JLCPCB : https://jlcpcb.com
+            
 
 Have fun :)
 
