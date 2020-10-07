@@ -5,8 +5,6 @@ Based on the inverter designed by Johannes Heubner using slip control.
 Software may be downladed here:
 https://github.com/jsphuebner/stm32-sine/releases
 
-Fully built and tested boards and bare PCBs available here :
-http://www.evbmw.com/index.php/evbmw-webshop
 
 Support forum : https://openinverter.org/forum/
 
